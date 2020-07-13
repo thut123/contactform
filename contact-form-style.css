@@ -1,0 +1,47 @@
+.svg-padding {
+	display: inline-block;
+}
+
+.svg {
+	cursor: pointer;
+	padding: 5px 5px 5px 5px;
+	border-radius: 3px;
+	margin: 0px 5px 0px 5px;
+	border: 1px solid #FFF;
+}
+
+.text-color {
+	font-weight: bold;
+}
+
+.captcha-container {
+	background: #fff;
+	padding: 15px;
+	border: 1px solid #9a9a9a;
+	width: 270px;
+	border-radius: 3px;
+	padding-top: 0px;
+}
+
+.error-field {
+	border: 1px solid #d96557;
+}
+
+.send-button {
+	cursor: pointer;
+	background: #3cb73c;
+	border: #36a536 1px solid;
+	color: #FFF;
+	font-size: 1em;
+	width: 100px;
+}
+
+.captcha-selected {
+	color: #1cb87b;
+	background-color: #e3e3e3;
+	border: #d7d7d7 1px solid;
+}
+
+.border-error-color {
+	border: 1px solid #e66262;
+}
